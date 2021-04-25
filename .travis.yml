@@ -1,7 +1,7 @@
 language: python
-   - "3.6"
+  - "3.8"
 install:
-   - make deps
+  - make deps
 script:
-   - make test
-   - make lint
+  - make test
+  - make lint

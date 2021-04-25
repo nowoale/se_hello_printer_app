@@ -12,4 +12,3 @@ test:
 
 run:
 	python main.py
-0 comments on commit af1d60c
