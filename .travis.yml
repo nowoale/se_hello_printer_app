@@ -17,5 +17,5 @@ deploy:
   app: boiling-stream-22946
   api_key: ${HEROKU_API_KEY}
 
-#after_success:
+#after success:
 #  - make docker_build
