@@ -12,5 +12,10 @@ script:
   - make docker_push
 services:
   -docker
+deploy:
+  provider: heroku
+  app: boiling-stream-22946
+  api_key: ${HEROKU_API_KEY}
+
 #after_success:
 #  - make docker_build
