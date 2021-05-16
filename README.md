@@ -89,4 +89,4 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 [![Build Status](https://travis-ci.com/nowoale/se_hello_printer_app.svg?branch=master)](https://travis-ci.com/nowoale/se_hello_printer_app)
 
-https://app.statuscake.com/button/index.php?Track=5961426&Days=1&Design=1
+[![StatusCake](https://app.statuscake.com/button/index.php?Track=5961426&Days=1&Design=1)](https://app.statuscake.com/button/index.php?Track=5961426&Days=1&Design=1)
